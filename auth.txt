@@ -1,0 +1,3 @@
+user = Jonatana
+pwrd = Jonatana1234
+http://localhost:8088/testeWp/wordpress/wp-login.php?

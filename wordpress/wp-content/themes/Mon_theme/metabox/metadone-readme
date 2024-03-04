@@ -1,0 +1,16 @@
+/**
+ * le metadonne est un information supplementaire apporter a un article 
+ * le metadonne est enregistree dans la base de donne 
+ * La class sponson va gerer le metadonne
+ // Pour ajouter une meta
+update_post_meta($postId, 'ma_meta', 'ma valeur');
+
+ // Pour mettre à jour ou ajouter une meta
+update_post_meta($postId, 'ma_meta', 'ma valeur');
+
+// Pour supprimer une meta
+delete_post_meta($postId, 'ma_meta');
+
+// Récupère une métadonnée
+get_post_meta($postId, 'ma_meta');
+ */
